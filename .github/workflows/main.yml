@@ -7,7 +7,7 @@ on:
 
 jobs:
   example-jobs:
-    runs-on: ubunto-latest
+    runs-on: ubuntع-latest
 
     steps:
       - name: print a welcome message
